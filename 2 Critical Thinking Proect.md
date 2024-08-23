@@ -20,19 +20,21 @@
 4. **Deploy Application**: Use EC2 or Elastic Beanstalk to deploy the application in both regions.
 5. **Database Replication**: Set up Amazon RDS instances in both regions with cross-region read replicas.
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (223).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (222).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (224).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (225).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (226).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (227).png>)
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (228).png>)
+
+![image](<Screenshot (229).png>)
 
 ### Scenario 2: Hosting a Static Website in Amazon S3
 
@@ -58,15 +60,13 @@
 
 Draw an architecture diagram showing the S3 bucket, CloudFront distribution, Route 53 (for domain setup), and user flow.
 
-[image](../../../../Downloads)
+![image](s3-architecture.png)
 
 After designing, host a sample website in an S3 bucket following the outlined steps.
 
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (213).png>)
 
-[image](../../../../Pictures/Screenshots)
-
-[image](../../../../Pictures/Screenshots)
+![image](<Screenshot (212).png>)
 
 ### Scenario 3: Migrating Legacy Applications to the Cloud
 
